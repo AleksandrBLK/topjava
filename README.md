@@ -76,8 +76,6 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 - Spring Internationalization
 - Домашнее задание (HW6 + Optional)
 
-#### Большое ДЗ + выпускной проект + подтягиваем "хвосты".
-
 #### 22.11: 7-е занятие
 - Разбор домашнего задания HW6 + Optional
 - Автогенерация DDL по модели
